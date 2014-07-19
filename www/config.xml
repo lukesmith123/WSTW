@@ -6,14 +6,14 @@
         id        = "com.jigglypig.wmtw"
         version   = "1.0.0">
 
-    <name>Which Movie to Watch</name>
+    <name>What Show to Watch</name>
 
     <description>
-        A Movie Reccomendation Service
+        A TV Show Reccomendation Service
     </description>
 
-    <author href="http://www.whichmovietowatch.com" email="lukesmith@whichmovietowatch.com">
-        whichmovietowatch.com
+    <author href="http://www.jigglypigapps.com" email="lukesmith@whichmovietowatch.com">
+        JigglyPig Apps
     </author>
 
     <!--
