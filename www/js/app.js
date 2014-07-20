@@ -80,7 +80,7 @@ function loadData() {
 		success: function(data) { 
 		
 				var obj = $.parseJSON(data);                
-				image_text_1 = obj.image_text_1; 
+				image_text_1 = obj.image_text; 
 				//add the result to the page
 				$('.text').html(image_text_1);
 				//then remove the imdb and rt links from the page 
@@ -114,7 +114,7 @@ function initalLoadData() {
 		success: function(data) { 
 		   
 			var obj = $.parseJSON(data); 
-			image_text_1 = obj.image_text_1; 
+			image_text_1 = obj.image_text; 
 			// add result to the page
 			$('.text').html(image_text_1);
 
