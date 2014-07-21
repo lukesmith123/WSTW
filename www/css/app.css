@@ -2,12 +2,12 @@
 /* CSS Document */
 
 @font-face {
-    font-family: 'bebas_neueregular';
-    src: url('bebasneue-webfont.eot');
-    src: url('bebasneue-webfont.eot?#iefix') format('embedded-opentype'),
-         url('bebasneue-webfont.woff') format('woff'),
-         url('bebasneue-webfont.ttf') format('truetype'),
-         url('bebasneue-webfont.svg#bebas_neueregular') format('svg');
+	font-family: 'coolvetica_rg';
+	src: url('coolvetica_rg-webfont.eot');
+	src: url('coolvetica_rg-webfont.eot?#iefix') format('embedded-opentype'),
+         url('coolvetica_rg-webfont.woff') format('woff'),
+         url('coolvetica_rg-webfont.ttf') format('truetype'),
+         url('coolvetica_rg-webfont.svg#coolvetica_rg') format('svg');
     font-weight: normal;
     font-style: normal;
 }
@@ -50,7 +50,7 @@ h3 {
 }
 
 h4 {
-	font-family: 'bebas_neueregular', Arial, sans-serif;
+	font-family: 'coolvetica_rg', Arial, sans-serif;
 	font-size: 26px;
 	text-align:center;
 	margin: 8px auto;
@@ -72,7 +72,7 @@ h4 {
 }
 
 #rating {
-	font-family: 'bebas_neueregular', Arial, sans-serif;
+	font-family: 'coolvetica_rg', Arial, sans-serif;
 	font-size: x-large;	
 	font-weight: bold;
 	text-align: right;
@@ -84,7 +84,7 @@ p {
 }
 
 #cTitleWhat {
-	font-family: 'bebas_neueregular', Arial, sans-serif;	
+	font-family: 'coolvetica_rg', Arial, sans-serif;	
 	font-size: xx-large;
 	width: 200px;
 	margin-top:0px;
@@ -92,19 +92,19 @@ p {
 }
 
 #cTitle {
-	font-family: 'bebas_neueregular', Arial, sans-serif;	
+	font-family: 'coolvetica_rg', Arial, sans-serif;	
 	font-size: xx-large;
 	padding-top:20px;
 }
 
 #cBlogTitle {
-	font-family: 'bebas_neueregular', Arial, sans-serif;
+	font-family: 'coolvetica_rg', Arial, sans-serif;
 	font-size: 40px;	
 	line-height: 150%;
 }
 
 #cBlogMainTitle {
-	font-family: 'bebas_neueregular', Arial, sans-serif;
+	font-family: 'coolvetica_rg', Arial, sans-serif;
 	font-size: 48px;	
 	line-height: 150%;
 	text-align:center;
@@ -148,11 +148,11 @@ p {
 
 
 #nav-panel{
-	background:#131313;	
+	background:#e44d4d;	
 }
 
 #more-panel {
-	background:#131313;	
+	background:#e44d4d;	
 }
 
 
