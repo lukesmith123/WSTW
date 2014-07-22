@@ -86,7 +86,6 @@ p {
 #cTitleWhat {
 	font-family: 'coolvetica_rg', Arial, sans-serif;	
 	font-size: xx-large;
-	width: 200px;
 	margin-top:0px;
     margin-bottom:0px;
 }
@@ -97,56 +96,6 @@ p {
 	padding-top:20px;
 }
 
-#cBlogTitle {
-	font-family: 'coolvetica_rg', Arial, sans-serif;
-	font-size: 40px;	
-	line-height: 150%;
-}
-
-#cBlogMainTitle {
-	font-family: 'coolvetica_rg', Arial, sans-serif;
-	font-size: 48px;	
-	line-height: 150%;
-	text-align:center;
-}
-
-#cBlogLi {
-	border: 1px solid #252525;
-	margin-left:auto;
-	margin-right:auto;
-}
-
-#cBlogLiImg {
-	float: left;
-	padding-right: 5px;	
-	padding-top: 10px;
-}
-
-#cBlogLiImg Img {
-	width: 0px;	
-	height: 0px;
-}
-
-#cBlogLiText {
-	padding-left: 5px;
-	padding-top: 5px;
-}
-
-#cBlogLiText a {
-	color:#000; text-decoration:underline; font-size:18px;	
-}
-
-
-#btns {
-	text-align:center;	
-}
-
-#btns2 {
-	margin: 0 auto;
-	display: table;
-}
-
-
 #nav-panel{
 	background:#e44d4d;	
 }
@@ -154,54 +103,6 @@ p {
 #more-panel {
 	background:#e44d4d;	
 }
-
-
-#imdb{
-    background-image:url(http://whichmovietowatch.com/img/imdb.png);
-    display: inline-block;
-    height:64px;
-    width:128px;
-      padding: 5px;
-       background-repeat: no-repeat;
-}
-
-#rt1{
-    background-image:url(http://whichmovietowatch.com/img/CFresh_logo.png);
-    display: inline-block;
-    height:55px;
-    width:60px;
-      padding: 5px;
-       background-repeat: no-repeat;
-}
-
-#rt2{
-    background-image:url(http://http://whichmovietowatch.com/img/fresh_45.png);
-    display: inline-block;
-    height:53px;
-    width:64px;
-    padding: 5px;
-    background-repeat: no-repeat;
-}
-
-#rt2{
-    background-image:url(http://whichmovietowatch.com/img/CFresh_logo.png);
-    display: inline-block;
-    height:55px;
-    width:60px;
-      padding: 5px;
-       background-repeat: no-repeat;
-}
-
-#rt3{
-    background-image:url(http://whichmovietowatch.com/img/rotten_45.png);
-    display: inline-block;
-    height:46px;
-    width:45px;
-      padding: 5px;
-       background-repeat: no-repeat;
-}
-
-
 
 #quotes {
  font-family: georgia, serif;
