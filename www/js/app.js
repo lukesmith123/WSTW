@@ -13,10 +13,19 @@ $(document).ready(function() {
     }
 });
 
+
+
 function onDeviceReady() {
     // do everything here.
 
 
+
+// Navigate to the next page on swipeleft
+    $( document ).on( "swipeleft", ".ui-page", function( event ) {
+        loadData();
+		scrollTo(0,0);
+    });
+	
 
 function openURL(urlString, bIAB){
 	
@@ -57,10 +66,6 @@ button.removeAttr('disabled');
 event.preventDefault(); 
 loadData(); 
 $(".ui-btn-active").removeClass('ui-btn-active');
-$("#imdb").remove();
-$("#rt1").remove();
-$("#rt2").remove();
-$("#rt3").remove();
 $('#nav-panel').panel('close');
 window.scrollTo(0, 0);
 });   
