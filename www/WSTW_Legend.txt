@@ -1,0 +1,7 @@
+
+0 = None
+1 = Action
+2 = Thriller
+3 = Comedy
+4 = Crime
+5 = Historical
